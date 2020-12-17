@@ -4,8 +4,13 @@ RENCANA KONTEN ianteach
   * Meninstall PC Router di Debian Server
   * Menggunakan aplikasi pendukung VirtualBox
 - DNS Server
+ Coba-Fitur-2
  ^ ping detik
  ^ ping linux
+ ^ ip dns
+ ^ ping google
+- SSH, SSL, NTP Server
+ ^ puty
 - DHCP Server
  ^ IP Dinamis
 - File Server
