@@ -2,5 +2,5 @@ ianteach-resolusi
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat Desain Web
 - Membuat Platform untuk penggelolaan video
-- Menyeberluaskan platform ke media sosial
 - Melakukan kolaborasi dengan teman
+- Membuat vlog
