@@ -5,6 +5,7 @@ RENCANA KONTEN ianteach
   * Menggunakan aplikasi pendukung VirtualBox
 - DNS Server
  ^ ip dns
+ ^ ping google
 - SSH, SSL, NTP Server
  ^ puty
 - DHCP Server
