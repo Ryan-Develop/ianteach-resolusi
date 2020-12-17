@@ -1,9 +1,9 @@
 RENCANA KONTEN ianteach
 
 - Pc Router
-* Meninstall PC Router di Debian Server
-* Menggunakan aplikasi pendukung VirtualBox
-
+  * Meninstall PC Router di Debian Server
+  * Menggunakan aplikasi pendukung VirtualBox
+- DNS Server
 - SSH, SSL, NTP Server
 - DHCP Server
 - File Server
